@@ -1,0 +1,6 @@
+
+aiohttp
+colorama
+phonenumbers
+pyfiglet
+requests
